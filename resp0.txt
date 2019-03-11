@@ -1,0 +1,31 @@
+ 1  git clone http://github.com/IIC2115/Syllabus
+    2  git add L0/
+    3  cd L0
+    4  git add *
+    5  git add *
+    6  git status
+    7  cd ..
+    8  git clone https://github.com/rastasoldat/L0.git
+    9  cd L0
+   10  git add *
+   11  git commit -m "archivo de texto vacio"
+   12  git push
+   13  git pull
+   14  doskey /History
+   15  doskey/History
+   16  doskey
+   17  /History
+   18  doskey /History
+   19  doskey /History
+   20  doskey /HISTORY
+   21  cd ..
+   22  doskey /History
+   23  cd L0
+   24  /History
+   25  doskey /History
+   26  doskey
+   27  /History
+   28  doskey /History
+   29  doskey History
+   30  git status
+   31  history
